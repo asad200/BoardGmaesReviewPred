@@ -1,2 +1,9 @@
 # BoardGmaesReviewPred
-Prediction of Board Game Review using regression models. Linear Regression, Random Forest and Support Vector Regressor with Radial Bases Function models are compared.
+Prediction of Board Game Review using regression models. Comparision of the accuracy of different methods.
+
+## Algorithms used
+
+- Linear Regression 
+- Random Forest 
+- Support Vector Regressor( Radial Bases Function)
+
